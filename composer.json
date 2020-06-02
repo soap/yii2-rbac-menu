@@ -1,0 +1,25 @@
+{
+    "name": "soap/yii2-rbac-menu",
+    "description": "Yii2 menu management module based on RBAC data",
+    "type": "yii2-extension",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "Prasit Gebsaap",
+            "email": "prasit.gebsaap@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "yiisoft/yii2": "^2.0"
+    },
+    "require-dev": {
+        "codeception/codeception": "^4.1"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]
+}
